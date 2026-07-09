@@ -1,0 +1,6 @@
+{
+  "name": "Doctor Commission AI",
+  "description": "Eliminate manual preparation of pathology doctor commission registers by scanning them with your camera. AI automatically reads entries and prepares doctor-wise sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
